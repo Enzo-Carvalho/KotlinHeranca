@@ -1,0 +1,2 @@
+# KotlinHeranca
+Ex de herança
